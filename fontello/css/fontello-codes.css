@@ -1,0 +1,18 @@
+
+.icon-twitter:before { content: '\21'; } /* '!' */
+.icon-wpforms:before { content: '\22'; } /* '&quot;' */
+.icon-phone:before { content: '\23'; } /* '#' */
+.icon-skype:before { content: '\24'; } /* '$' */
+.icon-mail:before { content: '\25'; } /* '%' */
+.icon-comment:before { content: '\26'; } /* '&amp;' */
+.icon-search:before { content: '\27'; } /* ''' */
+.icon-chat:before { content: '\28'; } /* '(' */
+.icon-user:before { content: '\29'; } /* ')' */
+.icon-right-dir:before { content: '\2a'; } /* '*' */
+.icon-list-bullet:before { content: '\2b'; } /* '+' */
+.icon-chat-1:before { content: '\2c'; } /* ',' */
+.icon-angle-double-left:before { content: '\2d'; } /* '-' */
+.icon-angle-double-right:before { content: '\2e'; } /* '.' */
+.icon-calendar:before { content: '\2f'; } /* '/' */
+.icon-mobile:before { content: '\30'; } /* '0' */
+.icon-tag:before { content: '\31'; } /* '1' */
